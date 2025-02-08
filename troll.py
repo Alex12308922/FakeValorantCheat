@@ -14,9 +14,6 @@ window.title("Valorant CheatEngine")
 window.config(bg="#252526")
 customtkinter.set_default_color_theme("blue")
 
-icon  = PhotoImage(file="logo.png")
-window.iconphoto(True, icon)
-
 PcUser = os.getlogin() #Get the username of the machine
 
 #------------- Fake Sliders and Chechboxes -------------------
