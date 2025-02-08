@@ -6,6 +6,11 @@ It also creates a `.txt` file in the startup programs directory to remind the us
 
 The file creation is triggered when the user clicks the "Apply" button in the app.
 
+## How the app looks
+
+![App Screenshot](https://github.com/Alex12308922/FakeValorantCheat/blob/main/Screenshot%202025-02-08%20135513.png)
+
+
 ## Installation
 
 - **Option 1:** Download the `.exe` file and send it to one of your friends.
