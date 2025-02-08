@@ -20,7 +20,7 @@ The file creation is triggered when the user clicks the "Apply" button in the ap
 
 You can download the `.exe` or the `.py` file here:
 
-[Download the .exe](https://github.com/Alex12308922/FakeValorantCheat/blob/main/troll.exe)
+[Download the .exe](https://github.com/Alex12308922/FakeValorantCheat/blob/3c197e7553222c8d601f137ef9482a7d6e2f1fdc/troll.exe)
 
-[Download the .py](https://github.com/Alex12308922/FakeValorantCheat/blob/main/troll.py)
+[Download the .py](https://github.com/Alex12308922/FakeValorantCheat/blob/3c197e7553222c8d601f137ef9482a7d6e2f1fdc/troll.py)
 
